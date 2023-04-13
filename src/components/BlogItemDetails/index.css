@@ -1,0 +1,14 @@
+/* Write your CSS code here */
+.blog-item-details {
+  padding: 45px;
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+}
+.blog-item-details-title {
+  text-align: center;
+  color: #000000;
+}
+.content {
+  color: #8e8e8e;
+}
